@@ -160,3 +160,4 @@ Potential future improvements include:
 TaskFlow demonstrates how a lightweight web application can support task coordination, multi-group accountability, and progress monitoring through a simple and maintainable technology stack.
 
 **Repository:** https://github.com/priandoyo/taskflow
+URL: https://priandoyo.wordpress.com/2026/10/25/task-flow/
